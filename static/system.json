@@ -42,6 +42,19 @@
             "flags": {}
         },
         {
+            "name": "tes-pack",
+            "label": "Test",
+            "path": "packs/pack",
+            "type": "Actor",
+            "banner": "systems/pf2e/assets/compendium-banner/red.webp",
+            "system": "pf2e",
+            "ownership": {
+                "PLAYER": "LIMITED",
+                "ASSISTANT": "OWNER"
+            },
+            "flags": {}
+        },
+        {
             "name": "age-of-ashes-bestiary",
             "label": "Age of Ashes",
             "path": "packs/age-of-ashes-bestiary",
