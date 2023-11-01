@@ -42,7 +42,7 @@
             "flags": {}
         },
         {
-            "name": "tes-pack",
+            "name": "test",
             "label": "Test",
             "path": "packs/pack",
             "type": "Actor",
